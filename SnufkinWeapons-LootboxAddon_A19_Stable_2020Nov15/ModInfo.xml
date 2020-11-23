@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Snufkin_lootboxes" />
+		<Description value="Allows players to gain loot" />
+		<Author value="Snufkin (icon update by arramus for changed and obsolete icons)" />
+		<Version value="A19 - Stable" />
+		<Website value="https://community.7daystodie.com/topic/18229-snufkins-server-side-weapons/" />
+	</ModInfo>
+</xml>
